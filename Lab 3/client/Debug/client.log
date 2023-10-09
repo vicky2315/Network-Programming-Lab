@@ -1,0 +1,6 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  client.cpp
+M:\Network Programming Lab\Lab 3\client\client.cpp(61,27): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+M:\Network Programming Lab\Lab 3\client\client.cpp(64,40): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+M:\Network Programming Lab\Lab 3\client\client.cpp(109,14): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  client.vcxproj -> M:\Network Programming Lab\Lab 3\client\Debug\client.exe

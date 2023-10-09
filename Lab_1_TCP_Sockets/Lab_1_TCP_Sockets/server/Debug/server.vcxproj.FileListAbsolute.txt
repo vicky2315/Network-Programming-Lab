@@ -1,0 +1,2 @@
+D:\Work\Abertay\CMP303\Lab2\Lab2\server\Debug\server.exe
+D:\Work\Abertay\CMP303\Lab2\Lab2\server\Debug\server.pdb
