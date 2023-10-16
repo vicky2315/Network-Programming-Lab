@@ -1,0 +1,8 @@
+﻿  EventServer.cpp
+C:\Users\admin\Downloads\EventServer\EventServer\EventServer.cpp(108,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET *'
+C:\Users\admin\Downloads\EventServer\EventServer\EventServer.cpp(108,13): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'SOCKET *'
+C:\Users\admin\Downloads\EventServer\EventServer\EventServer.cpp(150,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\Downloads\EventServer\EventServer\EventServer.cpp(150,10): message : consider using '%lld' in the format string
+C:\Users\admin\Downloads\EventServer\EventServer\EventServer.cpp(150,10): message : consider using '%Id' in the format string
+C:\Users\admin\Downloads\EventServer\EventServer\EventServer.cpp(150,10): message : consider using '%I64d' in the format string
+  EventServer.vcxproj -> C:\Users\admin\Downloads\EventServer\x64\Debug\EventServer.exe
